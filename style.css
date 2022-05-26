@@ -1,0 +1,11 @@
+body {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+.eachtodo {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: solid;
+    border-color: rgb(226, 250, 215);
+}
